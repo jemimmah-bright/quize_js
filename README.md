@@ -41,7 +41,7 @@ Var is accessible through out the entire function where it is declared
 while 
 let is only accessible with in the block {} where it is declared
 
-const can't be changes once assigned a value while var and let can be changed
+const can't be changed once assigned a value while var and let can be changed
 
 Var is hoisted to the top of its scope and initialized with undefined 
 while 
